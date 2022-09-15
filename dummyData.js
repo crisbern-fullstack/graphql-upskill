@@ -286,4 +286,4 @@ const reviews = [
   },
 ];
 
-module.exports = { products, categories };
+module.exports = { products, categories, reviews };
